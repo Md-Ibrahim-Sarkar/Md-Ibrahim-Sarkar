@@ -1,5 +1,5 @@
 
-![logo](https://github.com/Md-Ibrahim-Sarkar/Md-Ibrahim-Sarkar/blob/main/download.jpeg)
+
 
 
 <h1 align="center">Hi 👋, I'm Ibrahim Sarkar</h1>
