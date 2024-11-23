@@ -15,10 +15,10 @@
 <br> 
 
 
-- 👑 **Web Developer** | Passionate about creating responsive, user-friendly web apps.  
-- 🌱 **Currently Learning**: Advanced React.js, Tailwind CSS, and diving into full-stack development.  
-- 👀 **Interests**: Coding, solving JavaScript challenges, and exploring innovative web solutions.  
-- 💞️ **Open to Collaboration**: Excited to contribute to open-source projects and grow through teamwork.  
+- 👑 **Web Developer** <br>  Passionate about creating responsive, user-friendly web apps.  
+- 🌱 **Currently Learning** <br>  Advanced React.js, Tailwind CSS, and diving into full-stack development.  
+- 👀 **Interests** <br>  Coding, solving JavaScript challenges, and exploring innovative web solutions.  
+- 💞️ **Open to Collaboration** <br>  Excited to contribute to open-source projects and grow through teamwork.  
 
 
 
