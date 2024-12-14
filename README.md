@@ -25,7 +25,43 @@
 ## 🚀 About Me
 I am a Front-End Web Developer passionate about continuous learning and openly sharing my expertise with others. I enjoy tackling real-world challenges and take a strategic, goal-driven approach to every project, ensuring each task aligns with a clear vision. Quality and communication are at the core of my work ethic. I specialize in leveraging Tailwind CSS, daisyUI, React.js, JavaScript, and Next.js to build seamless, user-centric, and efficient web applications.
 
-# 💻 Tech Stack:
+# 💻 My Skills:
+<div style="display: flex; align-items: flex-start; align: center">
+<table align="center">
+    <tr>
+       <td align="center" width="150">
+            <img src="https://static-00.iconduck.com/assets.00/html5-icon-505x512-zls0uohx.png" width="48" height="48" alt="Solidity" />
+            <br>HTML
+        </td>
+        <td align="center" width="150">
+            <img src="https://files.raycast.com/83afy69l6wjib1zd62gya59tpc76" width="48" height="48" alt="Solidity" />
+            <br>Tailwind CSS
+        </td>
+      <td align="center" width="150">
+            <img src="https://iconape.com/wp-content/png_logo_vector/bootstrap-framework-logo.png" width="48" height="48" alt="Solidity" />
+            <br>Bootstrap
+        </td>
+        <td align="center" width="150">
+            <img src="https://logospng.org/download/javascript/logo-javascript-icon-512.png" width="48" height="48" alt="Rust" />
+            <br>JavaScript
+        </td>
+       <td align="center" width="150">
+            <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="48" height="48" />
+            <br>React
+        </td> 
+        <td align="center" width="150">
+            <img src="https://sledsworth.gallerycdn.vsassets.io/extensions/sledsworth/react-redux-es6-snippets/0.5.3/1530106605209/Microsoft.VisualStudio.Services.Icons.Default" width="48" height="48" alt="Node.js" />
+            <br>React Redux
+        </td> 
+         <td align="center" width="150">
+            <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
+            <br>Next.js
+        </td>  
+    </tr>
+</table>
+</div>
+
+
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)  ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)   ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ### Top Languages 
