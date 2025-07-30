@@ -1,80 +1,115 @@
-
-
-
-
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&size=26&pause=700&center=true&width=820&color=FFFFFF&lines=Hi,+There!+I+am+a+Front-end+developer+;+and+1+years+of+Experience+in+Web+and+Mobile+responsive." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&size=26&pause=700&center=true&width=820&color=FFFFFF&lines=Hi,+There!+I+am+a+Full-Stack+Web+Developer+;+Skilled+in+MERN+Stack+;+Passionate+about+building+modern+web+apps." alt="Typing SVG" />
   </a>
 </div>
 
-<img align="right" alt="coding" width="400" height="260" src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" style="max-width: 100%;">
+<img align="right" alt="coding" width="400" height="260" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
 
+<br>
 
+- 👑 **Full-Stack Developer** <br> Specializing in building scalable, responsive, and modern web applications.
+- 🚀 **Currently Focused On** <br> MERN Stack, Clean Architecture, REST APIs, and Scalable Design Patterns.
+- 🌱 **Currently Learning** <br> Advanced TypeScript, Prisma, MongoDB Aggregation, and Clean Backend Patterns.
+- 👀 **Interests** <br> UI/UX, Open Source, SaaS apps, and building developer tools.
+- 💞️ **Open to Collaboration** <br> Love contributing to meaningful open-source and startup projects.
 
-
-
-
-<br> 
-<br> 
-
-
-- 👑 **Web Developer** <br>  Passionate about creating responsive, user-friendly web apps.  
-- 🌱 **Currently Learning** <br>  Advanced React.js, Tailwind CSS, and diving into full-stack development.  
-- 👀 **Interests** <br>  Coding, solving JavaScript challenges, and exploring innovative web solutions.  
-- 💞️ **Open to Collaboration** <br>  Excited to contribute to open-source projects and grow through teamwork.  
-
-
+---
 
 ## 🚀 About Me
-I am a Front-End Web Developer passionate about continuous learning and openly sharing my expertise with others. I enjoy tackling real-world challenges and take a strategic, goal-driven approach to every project, ensuring each task aligns with a clear vision. Quality and communication are at the core of my work ethic. I specialize in leveraging Tailwind CSS, daisyUI, React.js, JavaScript, and Next.js to build seamless, user-centric, and efficient web applications.
+
+I am a passionate Full-Stack Web Developer with a strong foundation in the **MERN Stack**. I believe in writing clean, maintainable code and building products that solve real-world problems. I always aim to follow best practices and continuously learn from the ever-evolving web ecosystem.
+
+My development journey is powered by **React.js**, **Next.js**, **Node.js**, **Express.js**, **MongoDB**, **Mongoose**, and **Tailwind CSS**. I'm also exploring **TypeScript**, **Prisma**, **Zod**, **Redux Toolkit**, and modern dev tools to enhance the developer experience and code quality.
+
+---
 
 # 💻 My Skills:
-<div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
-    <tr>
-       <td align="center" width="150">
-            <img src="https://static-00.iconduck.com/assets.00/html5-icon-505x512-zls0uohx.png" width="48" height="48" alt="Solidity" />
-            <br>HTML
-        </td>
-        <td align="center" width="150">
-            <img src="https://files.raycast.com/83afy69l6wjib1zd62gya59tpc76" width="48" height="48" alt="Solidity" />
-            <br>Tailwind CSS
-        </td>
-      <td align="center" width="150">
-            <img src="https://iconape.com/wp-content/png_logo_vector/bootstrap-framework-logo.png" width="48" height="48" alt="Solidity" />
-            <br>Bootstrap
-        </td>
-        <td align="center" width="150">
-            <img src="https://techstack-generator.vercel.app/js-icon.svg" width="48" height="48" alt="Rust" />
-            <br>JavaScript
-        </td>
-       <td align="center" width="150">
-            <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="48" height="48" />
-            <br>React
-        </td> 
-        <td align="center" width="150">
-            <img src="https://techstack-generator.vercel.app/redux-icon.svg" width="48" height="48" alt="Node.js" />
-            <br>Redux
-        </td> 
-         <td align="center" width="150">
-            <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
-            <br>Next.js
-        </td>  
-    </tr>
+  <tr>
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" /><br />HTML
+    </td>
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" /><br />CSS
+    </td>
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" /><br />JavaScript
+    </td>
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="TypeScript" /><br />TypeScript
+    </td>
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" /><br />React.js
+    </td>
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" /><br />Next.js
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" /><br />Node.js
+    </td>
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" /><br />Express.js
+    </td>
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" /><br />MongoDB
+    </td>
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" /><br />Tailwind CSS
+    </td>
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=redux" width="48" height="48" alt="Redux" /><br />Redux Toolkit
+    </td>
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" /><br />Git & GitHub
+    </td>
+  </tr>
 </table>
-</div>
+
+---
 
 
- ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)   ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)  ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)  ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)    ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+### 🌐 Featured Project: [nextwebui.com](https://nextwebui.com)
 
-### Top Languages 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=md-ibrahim-sarkar&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+> **NextWebUI** is a modern platform where developers and designers can submit, discover, and purchase **high-quality landing page templates** for any kind of project or startup.  
+> 💼 Built with `Next.js`, `TypeScript`, `Prisma`, `Redux Toolkit`, `Tailwind`, `MongoDB`, `Mongoose`, `Express.js`, `Cloudinary`, and `Framer Motion`.
+> 🔐 Features: Multi-step submission form, metadata tagging, auth system, and file uploads via Cloudinary.
 
-# 📊 GitHub Stats:
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Md-Ibrahim-Sarkar&theme=dark&card_width=462)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/62628408/166154902-658efaa0-fd85-4ee4-8519-01b1a2b41786.gif" width="600"/>
+</p>
 
-## 🌐 Connect with Me:  
-- **Portfolio**: [ibrahimsarkar.com](https://ibrahimsarkar.com)  
-- **LinkedIn**: [linkedin.com/in/ibrahim-sarkar](https://www.linkedin.com/in/ibrahim-sarkar/)
+<p align="center">
+  <a href="https://nextwebui.com" target="_blank">
+    <img src="https://img.shields.io/badge/🌐 Visit Live Site-000000?style=for-the-badge&logo=firefox&logoColor=white" alt="Live Site" />
+  </a>
+</p>
+
+---
+### 🛠 Tools & Platforms
+
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-ibrahim-sarkar&layout=compact&theme=radical" height="150"/>
+  <img src="https://streak-stats.demolab.com/?user=Md-Ibrahim-Sarkar&theme=radical" height="150"/>
+</p>
+---
+
+## 🌐 Connect with Me
+
+- 🌐 Portfolio: [ibrahimsarkar.com](https://ibrahimsarkar.com)   
+- 📧 Email: ibrahimsarkar.dev@gmail.com 
+- 💻 Project: [nextwebui.com](https://nextwebui.com)  
+
+---
 
