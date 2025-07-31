@@ -34,6 +34,9 @@ My development journey is powered by **React.js**, **Next.js**, **Node.js**, **E
       <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" /><br />CSS
     </td>
     <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" /><br />Tailwind CSS
+    </td>
+    <td align="center" width="150">
       <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" /><br />JavaScript
     </td>
     <td align="center" width="150">
@@ -42,11 +45,15 @@ My development journey is powered by **React.js**, **Next.js**, **Node.js**, **E
     <td align="center" width="150">
       <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" /><br />React.js
     </td>
-    <td align="center" width="150">
-      <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" /><br />Next.js
+     <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=redux" width="38" height="38" alt="Redux" /><br />Redux Toolkit & RTK Query
     </td>
+
   </tr>
   <tr>
+     <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" /><br />Next.js
+    </td>
     <td align="center" width="150">
       <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" /><br />Node.js
     </td>
@@ -56,11 +63,11 @@ My development journey is powered by **React.js**, **Next.js**, **Node.js**, **E
     <td align="center" width="150">
       <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" /><br />MongoDB
     </td>
-    <td align="center" width="150">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" /><br />Tailwind CSS
+     <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=postgresql" width="48" height="48" alt="MongoDB" /><br />PostgreSQL
     </td>
     <td align="center" width="150">
-      <img src="https://skillicons.dev/icons?i=redux" width="48" height="48" alt="Redux" /><br />Redux Toolkit
+      <img src="https://skillicons.dev/icons?i=prisma" width="48" height="48" alt="Tailwind" /><br />Prisma ORM
     </td>
     <td align="center" width="150">
       <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" /><br />Git & GitHub
